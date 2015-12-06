@@ -99,7 +99,7 @@ Eg : `btn-s-l`
 
 <h6>Other</h6>
 
-`list`  Generate <ul> and <li> tags 
+`list`  Generate ul and li tags 
 
 `card-text`  Bootstrap card with text
 
