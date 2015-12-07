@@ -105,7 +105,7 @@ Eg : `btn-s-l`
 
 `card-img`  Bootstrap card with image and text
 
-`Table`  Generate table with 3 rows and 1 column
+`Table`  Generate table with 3 column and 1 rows 
 
 `Style` Link external stylesheet easily
 
