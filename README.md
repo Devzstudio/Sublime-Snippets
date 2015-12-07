@@ -5,7 +5,7 @@ Check out this short codes which will make your job easier.
 
 
 
-[![Build Status](http://img.shields.io/badge/Version-1.0-green.svg)]( http://img.shields.io/badge/Version-1.0-green.svg )   <a href="http://devzstudio.com/donate.php" title="Donate"><img src="https://img.shields.io/badge/Donate-$-yellow.svg" alt="Donate" /></a> [![License](http://img.shields.io/badge/License-MIT-lightgrey.svg)](http://img.shields.io/badge/License-MIT-lightgrey.svg)
+[![Build Status](http://img.shields.io/badge/Version-1.1-green.svg)]( http://img.shields.io/badge/Version-1.1-green.svg )   <a href="http://devzstudio.com/donate.php" title="Donate"><img src="https://img.shields.io/badge/Donate-$-yellow.svg" alt="Donate" /></a> [![License](http://img.shields.io/badge/License-MIT-lightgrey.svg)](http://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 # Installation
 
@@ -130,6 +130,31 @@ Eg : `btn-s-l`
 
 `ror` Route::resource
 
+`ext` extends blade
+
+`yie` Yield in blade
+
+`sec` New section
+
+`if:` if in blade
+
+`if:else` if..else in blade
+
+`foreach:` foreach in blade
+
+`inc` include blade file
+
+`form:open` Form open
+
+`form:` Creates a text field 
+
+`form:textarea` Creates a textarea
+
+`form:submit` Form submit button
+
+`form:select` Form selectbox
+
+`form:close` Form close
 `rev` Return view
 
 `revc` Return view with compact
