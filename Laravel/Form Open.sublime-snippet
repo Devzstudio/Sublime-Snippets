@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{!! Form::open([ 'url' => '${1}','class' => 'form-horizontal']) !!}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>form:open</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

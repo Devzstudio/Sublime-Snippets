@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+
+ {!! Form::label('${1}','${2}' , ['class' => '${3}']) !!}
+ {!! Form::text('${1}',null,[ 'class' => 'form-control', 'required' => "reduired"]) !!}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>form:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
