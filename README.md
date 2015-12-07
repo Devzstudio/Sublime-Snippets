@@ -5,7 +5,7 @@ Check out this short codes which will make your job easier.
 
 
 
-[![Build Status](http://img.shields.io/badge/Version-1.0-green.svg)]( http://img.shields.io/badge/Version-1.0-green.svg )   <a href="http://devzstudio.com/donate.php" title="Donate to this project using Gratipay"><img src="https://img.shields.io/badge/Donate-$-yellow.svg" alt="Donate" /></a> [![License](http://img.shields.io/badge/License-MIT-lightgrey.svg)](http://img.shields.io/badge/License-MIT-lightgrey.svg)
+[![Build Status](http://img.shields.io/badge/Version-1.0-green.svg)]( http://img.shields.io/badge/Version-1.0-green.svg )   <a href="http://devzstudio.com/donate.php" title="Donate"><img src="https://img.shields.io/badge/Donate-$-yellow.svg" alt="Donate" /></a> [![License](http://img.shields.io/badge/License-MIT-lightgrey.svg)](http://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 # Installation
 
